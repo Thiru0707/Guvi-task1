@@ -11,13 +11,13 @@ public static void main(String args[])
 	{
 		for(j=a;j>i;j--)
 		{
-		System.out.print(j);
+		System.out.print(j+" ");
 		
 		}
 		
 		for(k=1;k<=i;k++)
 		{
-			System.out.print(i);
+			System.out.print(i+" ");
 			
 		}
 	System.out.println();
